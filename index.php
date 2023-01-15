@@ -4,21 +4,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>php01_kadai</title>
+    <title>PHP第1回課題</title>
 </head>
 <body>
 <header>
     <h1>PHP第1回課題</h1>
 </header>
 <main>
-    <h2>ポスト送信でファイルにデータを登録</h2>
+    <h2>アンケート</h2>
     <ul>
         <li><a href="post.php">入力画面</a></li>
     </ul>
 
-    <h2>ファイルのデータを表示</h2>
+    <h2>アンケート集計結果</h2>
     <ul>
-        <li><a href="read.php">表示画面</a></li>
+        <li><a href="read.php">表示</a></li>
     </ul>
 
 
